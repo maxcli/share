@@ -1,0 +1,5 @@
+D:\GitCode\CliftCons.POC\CliftCons.POC\bin\Debug\CliftCons.POC.exe.config
+D:\GitCode\CliftCons.POC\CliftCons.POC\bin\Debug\CliftCons.POC.exe
+D:\GitCode\CliftCons.POC\CliftCons.POC\bin\Debug\CliftCons.POC.pdb
+D:\GitCode\CliftCons.POC\CliftCons.POC\obj\Debug\CliftCons.POC.exe
+D:\GitCode\CliftCons.POC\CliftCons.POC\obj\Debug\CliftCons.POC.pdb
