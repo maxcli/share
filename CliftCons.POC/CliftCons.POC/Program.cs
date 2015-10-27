@@ -11,9 +11,15 @@ using System.Web.Script.Serialization;
 using System.Xml;
 using System.Xml.Linq;
 
-//          https://nothere.visualstudio.com/DefaultCollection/_git/BlockChain
+//*************************************************************************************
+//
 //          https://toshi.io/docs/#introduction  
 //          http://json2csharp.com/#    , and paste in https://bitcoin.toshi.io/api/v0/blocks to get poco 
+//
+//
+//         source location :  https://github.com/maxcli/share
+//
+//*************************************************************************************
 
 namespace CliftCons.POC
 {
