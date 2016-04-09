@@ -10,8 +10,12 @@ namespace CompareNumbersInStringsConsoleApp
     {
         static void Main(string[] args)
         {
+
+            // this is false
+            bool isSame = CompareStrings("a12", "123");
+
             // this is true
-            bool isSame=CompareStrings("a12","12");
+            isSame=CompareStrings("a12","12");
 
             // this is not true
             isSame = CompareStrings("a12", "32");
@@ -51,6 +55,17 @@ namespace CompareNumbersInStringsConsoleApp
                     break;
                 }
             } //for outer loop
+
+            //test for trailing numbers in string 2
+            for    (int j = c2Ptr; j < c2.Length; j++)
+            {
+                if (c2[j].IsNumeric())
+                {
+                    result = false;
+                    break;
+                }
+            }
+
 
             return result;
 
